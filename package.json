@@ -1,0 +1,23 @@
+{
+  "name": "InfernoSGTO",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mybot.js"
+  },
+  "keywords": [],
+  "author": "Rivu",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite-pool": "^0.2.2",
+    "discord.js": "^11.5.1",
+    "enmap": "^5.1.0",
+    "eslint": "^6.1.0",
+    "express": "^4.17.1",
+    "util": "^0.12.1",
+    "clash-of-clans-api": "^0.6.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
